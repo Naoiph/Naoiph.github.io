@@ -8,14 +8,28 @@ h1 {
   color: black;
   font-family: courier;
   font-size: 140%;
+  text-align: center;
 }
 h2 {
   color: black;
   font-family: courier;
   font-size: 140%;
+  text-align: center;
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: blue;
 }
 p {
   color: black;
   font-family: Times New Roman;
   font-size: 100%;
 }
+hr {
+    display: block;
+    height: 8px;
+    border: 0;
+    border-top: 8px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
