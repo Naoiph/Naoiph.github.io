@@ -1,0 +1,13 @@
+body {
+  background-color: honeydew;
+}
+h1 {
+  color: black;
+  font-family: courier;
+  font-size: 140%;
+}
+p {
+  color: black;
+  font-family: Times New Roman;
+  font-size: 100%;
+}
