@@ -6,6 +6,11 @@ h1 {
   font-family: courier;
   font-size: 140%;
 }
+h2 {
+  color: black;
+  font-family: courier;
+  font-size: 140%;
+}
 p {
   color: black;
   font-family: Times New Roman;
